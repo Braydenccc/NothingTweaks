@@ -33,7 +33,7 @@
     <!-- Navigation -->
     <string name="cat_navigation">导航栏</string>
 
-    <string name="pref_transparent_nav_bar">隐藏导航条（兼容画圈搜索）</string>
+    <string name="pref_transparent_nav_bar">隐藏导航条（兼容圈定即搜）</string>
     <string name="pref_transparent_nav_bar_desc">使导航条（小白条）隐形，但完全保留手势和“圈定即搜”功能。\n\n注意：您必须先在系统设置中启用导航条，并确保已开启“圈定即搜”，然后再开启此选项以隐藏导航条！</string>
 
     <string name="title_hide_ime_bar">隐藏键盘底部空白</string>
